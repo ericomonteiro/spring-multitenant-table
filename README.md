@@ -1,6 +1,6 @@
 
-# Spring Boot Multi Tenant By Data Base
-The goal of this application is resolve multi tenant segregating data in different databases,
+# Spring Boot Multi Tenant With Single Database
+The goal of this application is resolve multi tenant segregating data in single database using a field @TenantId,
 and propagate the tenant information in requests and messages using Kafka and SQS
 
 ### Solutions Architecture
