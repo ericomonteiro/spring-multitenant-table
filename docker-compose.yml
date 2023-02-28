@@ -1,0 +1,10 @@
+services:
+  postgres:
+    image: postgres:latest
+    environment:
+      - POSTGRES_DB=demo_tenant
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+      - TZ=GMT
+    ports:
+      - 5432:5432
