@@ -1,6 +1,6 @@
 package ericomonteiro.github.com.multitenant.model
 
-import ericomonteiro.github.com.multitenant.config.tenant.TenantContext
+import ericomonteiro.github.com.multitenant.config.TenantContext
 import jakarta.persistence.Column
 import jakarta.persistence.Entity
 import jakarta.persistence.Id

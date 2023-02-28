@@ -1,6 +1,6 @@
 package ericomonteiro.github.com.multitenant.config.http
 
-import ericomonteiro.github.com.multitenant.config.tenant.TenantContext.currentTenant
+import ericomonteiro.github.com.multitenant.config.TenantContext.currentTenant
 import jakarta.servlet.Filter
 import jakarta.servlet.FilterChain
 import jakarta.servlet.ServletRequest

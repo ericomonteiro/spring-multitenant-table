@@ -1,5 +1,6 @@
 package ericomonteiro.github.com.multitenant.config.tenant
 
+import ericomonteiro.github.com.multitenant.config.TenantContext
 import org.hibernate.cfg.AvailableSettings
 import org.hibernate.context.spi.CurrentTenantIdentifierResolver
 import org.springframework.boot.autoconfigure.orm.jpa.HibernatePropertiesCustomizer

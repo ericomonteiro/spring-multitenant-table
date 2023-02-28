@@ -1,4 +1,4 @@
-package ericomonteiro.github.com.multitenant.config.tenant
+package ericomonteiro.github.com.multitenant.config
 
 import ericomonteiro.github.com.multitenant.constants.Headers
 import org.slf4j.Logger
